@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jaswanth2075
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Full Stack Web Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me jaswanthnaidu18@gmail.com
 
