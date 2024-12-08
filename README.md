@@ -2,9 +2,8 @@
 - 👀 I’m interested in Full Stack Web Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me jaswanthnaidu18@gmail.com
- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+ <img src="https://komarev.com/ghpvc/?username=Jaswanth2075&style=flat-square&color=blue" alt=""/>
+
  
  
  ### :hammer_and_wrench: Languages and Tools :-
