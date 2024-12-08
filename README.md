@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Jaswanth2075
 - 👀 I’m interested in Full Stack Web Development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me jaswanthnaidu18@gmail.com
+ ### :hammer_and_wrench: Languages and Tools :-
+ 📫 How to reach me jaswanthnaidu18@gmail.com
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
