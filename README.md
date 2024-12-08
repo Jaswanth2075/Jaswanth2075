@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=Jaswanth2075&show_icons=true&theme=ADD_THEME_HERE" width="400">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth_2075&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages]https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth_2075&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jaswanth2075&theme=dark&border_radius=7" alt="GitHub Streak" /></a>
 <!---
