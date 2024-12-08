@@ -2,8 +2,17 @@
 - 👀 I’m interested in Full Stack Web Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me jaswanthnaidu18@gmail.com
- <img src="https://komarev.com/ghpvc/?username=Jaswanth2075&style=flat-square&color=blue" alt=""/>
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jaswanth-naidu-teegela-/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="jaswanthnaidu18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Jaswanth18/">
+    <img src="(https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</div>
  
  
  ### :hammer_and_wrench: Languages and Tools :-
