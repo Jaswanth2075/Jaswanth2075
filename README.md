@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaswanth2075
 - 👀 I’m interested in Full Stack Web Development in MERN Stack and Springboot with Angular and AI/ML
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects on Developing applications
 - 📫 How to reach me jaswanthnaidu18@gmail.com
 <div id="badges">
   <a href="https://www.linkedin.com/in/jaswanth-naidu-teegela-/">
